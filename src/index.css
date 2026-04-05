@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+.black {
+  background-color: black;
+  height: 100vh;
+}
+
+.hidden {
+  display: none;
+}
